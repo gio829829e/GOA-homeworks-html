@@ -1,0 +1,25 @@
+#e1 { 
+    color: rgb(56, 184, 56);
+}
+
+h1 { 
+    font-size: 3em;
+
+    font-weight: 5000;
+    
+    text-transform: capitalize;
+    
+    text-shadow: 15px 15px 5px; 
+}
+
+.e1 {
+    color: orange;
+
+    font-size: 2em;
+}
+
+.e2 {
+    color: red;
+
+}
+
